@@ -1,0 +1,66 @@
+==> 2022-12-14 19:31:02 <==
+# cmd: E:\anaconda\Scripts\conda-script.py create --yes --json --prefix E:\anaconda\envs\django2 python=3.9
+# conda version: 22.9.0
++defaults/noarch::tzdata-2022g-h04d1e81_0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/win-64::ca-certificates-2022.10.11-haa95532_0
++defaults/win-64::certifi-2022.9.24-py39haa95532_0
++defaults/win-64::openssl-1.1.1s-h2bbff1b_0
++defaults/win-64::pip-22.3.1-py39haa95532_0
++defaults/win-64::python-3.9.15-h6244533_2
++defaults/win-64::setuptools-65.5.0-py39haa95532_0
++defaults/win-64::sqlite-3.40.0-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py39haa95532_2
+# update specs: ['python=3.9']
+==> 2022-12-14 19:34:57 <==
+# cmd: E:\anaconda\Scripts\conda-script.py install -c conda-forge autopep8 django django-crispy-forms django-bootstrap4 furl pillow pylint sqlparse
+# conda version: 22.9.0
+-defaults/win-64::ca-certificates-2022.10.11-haa95532_0
+-defaults/win-64::certifi-2022.9.24-py39haa95532_0
++conda-forge/noarch::asgiref-3.5.2-pyhd8ed1ab_0
++conda-forge/noarch::autopep8-2.0.0-pyhd8ed1ab_0
++conda-forge/noarch::beautifulsoup4-4.11.1-pyha770c72_0
++conda-forge/noarch::certifi-2022.12.7-pyhd8ed1ab_0
++conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_0
++conda-forge/noarch::dill-0.3.6-pyhd8ed1ab_1
++conda-forge/noarch::django-4.1.4-pyhd8ed1ab_0
++conda-forge/noarch::django-bootstrap4-3.0.1-pyh239f2a4_0
++conda-forge/noarch::django-crispy-forms-1.14.0-pyhd8ed1ab_0
++conda-forge/noarch::furl-2.1.3-pyhd8ed1ab_0
++conda-forge/noarch::importlib-metadata-2.0.0-py_1
++conda-forge/noarch::isort-5.11.2-pyhd8ed1ab_0
++conda-forge/noarch::mccabe-0.7.0-pyhd8ed1ab_0
++conda-forge/noarch::orderedmultidict-1.0.1-py_0
++conda-forge/noarch::platformdirs-2.6.0-pyhd8ed1ab_0
++conda-forge/noarch::pycodestyle-2.10.0-pyhd8ed1ab_0
++conda-forge/noarch::pylint-2.15.8-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::soupsieve-2.3.2.post1-pyhd8ed1ab_0
++conda-forge/noarch::sqlparse-0.4.3-pyhd8ed1ab_0
++conda-forge/noarch::tomli-2.0.1-pyhd8ed1ab_0
++conda-forge/noarch::tomlkit-0.11.6-pyha770c72_0
++conda-forge/noarch::typing-3.10.0.0-pyhd8ed1ab_0
++conda-forge/noarch::typing-extensions-4.4.0-hd8ed1ab_0
++conda-forge/noarch::typing_extensions-4.4.0-pyha770c72_0
++conda-forge/noarch::zipp-3.11.0-pyhd8ed1ab_0
++conda-forge/win-64::astroid-2.12.13-py39hcbf5309_0
++conda-forge/win-64::backports.zoneinfo-0.2.1-py39hcbf5309_7
++conda-forge/win-64::ca-certificates-2022.12.7-h5b45459_0
++conda-forge/win-64::freetype-2.10.4-h546665d_1
++conda-forge/win-64::jpeg-9e-h8ffe710_2
++conda-forge/win-64::libtiff-4.0.10-h21b02b4_1005
++conda-forge/win-64::libwebp-1.2.4-h8ffe710_0
++conda-forge/win-64::libwebp-base-1.2.4-h8ffe710_0
++conda-forge/win-64::lz4-c-1.9.3-h8ffe710_1
++conda-forge/win-64::python_abi-3.9-2_cp39
++conda-forge/win-64::tk-8.6.12-h8ffe710_0
++conda-forge/win-64::wrapt-1.14.1-py39hb82d6ee_0
++conda-forge/win-64::xz-5.2.6-h8d14728_0
++conda-forge/win-64::zlib-1.2.11-h8d14728_1011
++conda-forge/win-64::zstd-1.4.9-h6255e5f_0
++defaults/win-64::lazy-object-proxy-1.6.0-py39h2bbff1b_0
++defaults/win-64::libpng-1.6.37-h2a8f88b_0
++defaults/win-64::pillow-9.2.0-py39hdc2b20a_1
+# update specs: ['django', 'pylint', 'django-bootstrap4', 'furl', 'django-crispy-forms', 'autopep8', 'sqlparse', 'pillow']

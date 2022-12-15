@@ -1,0 +1,11 @@
+prefix=E:/anaconda/envs/django2/Library
+exec_prefix=E:/anaconda/envs/django2/Library
+libdir=E:/anaconda/envs/django2/Library/lib
+includedir=E:/anaconda/envs/django2/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.0.10
+Libs: -LE:/anaconda/envs/django2/Library/lib -ltiff
+Libs.private: 
+Cflags: -IE:/anaconda/envs/django2/Library/include

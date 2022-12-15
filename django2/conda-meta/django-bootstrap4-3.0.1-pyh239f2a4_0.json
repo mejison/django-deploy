@@ -1,0 +1,326 @@
+{
+  "build": "pyh239f2a4_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "beautifulsoup4 >=4.8.0",
+    "django >=2.2",
+    "importlib-metadata <3",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "E:\\anaconda\\pkgs\\django-bootstrap4-3.0.1-pyh239f2a4_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/bootstrap4/__init__.py",
+    "Lib/site-packages/bootstrap4/bootstrap.py",
+    "Lib/site-packages/bootstrap4/components.py",
+    "Lib/site-packages/bootstrap4/exceptions.py",
+    "Lib/site-packages/bootstrap4/forms.py",
+    "Lib/site-packages/bootstrap4/models.py",
+    "Lib/site-packages/bootstrap4/renderers.py",
+    "Lib/site-packages/bootstrap4/templates/bootstrap4/bootstrap4.html",
+    "Lib/site-packages/bootstrap4/templates/bootstrap4/field_errors.html",
+    "Lib/site-packages/bootstrap4/templates/bootstrap4/field_help_text.html",
+    "Lib/site-packages/bootstrap4/templates/bootstrap4/form_errors.html",
+    "Lib/site-packages/bootstrap4/templates/bootstrap4/messages.html",
+    "Lib/site-packages/bootstrap4/templates/bootstrap4/pagination.html",
+    "Lib/site-packages/bootstrap4/templates/bootstrap4/widgets/radio_select_button_group.html",
+    "Lib/site-packages/bootstrap4/templatetags/__init__.py",
+    "Lib/site-packages/bootstrap4/templatetags/bootstrap4.py",
+    "Lib/site-packages/bootstrap4/text.py",
+    "Lib/site-packages/bootstrap4/utils.py",
+    "Lib/site-packages/bootstrap4/widgets.py",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/AUTHORS",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/LICENSE",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/METADATA",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/RECORD",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/WHEEL",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/django_bootstrap4-3.0.1.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/bootstrap4/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/bootstrap.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/components.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/exceptions.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/forms.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/models.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/renderers.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/templatetags/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/templatetags/__pycache__/bootstrap4.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/text.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/utils.cpython-39.pyc",
+    "Lib/site-packages/bootstrap4/__pycache__/widgets.cpython-39.pyc"
+  ],
+  "fn": "django-bootstrap4-3.0.1-pyh239f2a4_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "E:\\anaconda\\pkgs\\django-bootstrap4-3.0.1-pyh239f2a4_0",
+    "type": 1
+  },
+  "md5": "29b8804bb5109efb985e06d9e476bcf2",
+  "name": "django-bootstrap4",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\anaconda\\pkgs\\django-bootstrap4-3.0.1-pyh239f2a4_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/bootstrap4/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f01dda8c71fe7338232077537338e0308724abd370ac4ed4a2ca7b453a340a1f",
+        "sha256_in_prefix": "f01dda8c71fe7338232077537338e0308724abd370ac4ed4a2ca7b453a340a1f",
+        "size_in_bytes": 268
+      },
+      {
+        "_path": "site-packages/bootstrap4/bootstrap.py",
+        "path_type": "hardlink",
+        "sha256": "9f083137217d80716f34a61e41d49b314a18315a7a17e37793860d4ff1defe05",
+        "sha256_in_prefix": "9f083137217d80716f34a61e41d49b314a18315a7a17e37793860d4ff1defe05",
+        "size_in_bytes": 3633
+      },
+      {
+        "_path": "site-packages/bootstrap4/components.py",
+        "path_type": "hardlink",
+        "sha256": "4a3d1080f318483874332889433ab03b2bca4101ddedc744b96e51ff66c20fa5",
+        "sha256_in_prefix": "4a3d1080f318483874332889433ab03b2bca4101ddedc744b96e51ff66c20fa5",
+        "size_in_bytes": 943
+      },
+      {
+        "_path": "site-packages/bootstrap4/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "5997fe769695229479d332b6e8cdc77b1a1e402bcfaced8b111b4d83b0ebe672",
+        "sha256_in_prefix": "5997fe769695229479d332b6e8cdc77b1a1e402bcfaced8b111b4d83b0ebe672",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "site-packages/bootstrap4/forms.py",
+        "path_type": "hardlink",
+        "sha256": "35ed0a52536c5e2e9393664e1d4409683945fdc85e2c8ec11c00b1597e69d4c8",
+        "sha256_in_prefix": "35ed0a52536c5e2e9393664e1d4409683945fdc85e2c8ec11c00b1597e69d4c8",
+        "size_in_bytes": 4977
+      },
+      {
+        "_path": "site-packages/bootstrap4/models.py",
+        "path_type": "hardlink",
+        "sha256": "e56cbdf8b83bec566669101bc89524966c3b739e24aebd09ced59e6a193f332b",
+        "sha256_in_prefix": "e56cbdf8b83bec566669101bc89524966c3b739e24aebd09ced59e6a193f332b",
+        "size_in_bytes": 50
+      },
+      {
+        "_path": "site-packages/bootstrap4/renderers.py",
+        "path_type": "hardlink",
+        "sha256": "f843ffae9b83ac9d96f4ccc74539dae8f0683a69097e2848cc32b7d598854ce9",
+        "sha256_in_prefix": "f843ffae9b83ac9d96f4ccc74539dae8f0683a69097e2848cc32b7d598854ce9",
+        "size_in_bytes": 21858
+      },
+      {
+        "_path": "site-packages/bootstrap4/templates/bootstrap4/bootstrap4.html",
+        "path_type": "hardlink",
+        "sha256": "def139a6dc7c1fadd2d5433d1d7301d63a85eacd66b4dc359f590b5f2194da91",
+        "sha256_in_prefix": "def139a6dc7c1fadd2d5433d1d7301d63a85eacd66b4dc359f590b5f2194da91",
+        "size_in_bytes": 1130
+      },
+      {
+        "_path": "site-packages/bootstrap4/templates/bootstrap4/field_errors.html",
+        "path_type": "hardlink",
+        "sha256": "a11f51df08f7a40eec9605928db88c64dc466b3376c65c1590b736b0ab8721fd",
+        "sha256_in_prefix": "a11f51df08f7a40eec9605928db88c64dc466b3376c65c1590b736b0ab8721fd",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "site-packages/bootstrap4/templates/bootstrap4/field_help_text.html",
+        "path_type": "hardlink",
+        "sha256": "29b1c6f8cbe76d8c631c9a70f2d55d29e7ab30bc23fa291ad827b91f30b95298",
+        "sha256_in_prefix": "29b1c6f8cbe76d8c631c9a70f2d55d29e7ab30bc23fa291ad827b91f30b95298",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "site-packages/bootstrap4/templates/bootstrap4/form_errors.html",
+        "path_type": "hardlink",
+        "sha256": "cbae3c916492ec66d381202866ee19070491068c8de1a79458564ffd33fcb0ea",
+        "sha256_in_prefix": "cbae3c916492ec66d381202866ee19070491068c8de1a79458564ffd33fcb0ea",
+        "size_in_bytes": 304
+      },
+      {
+        "_path": "site-packages/bootstrap4/templates/bootstrap4/messages.html",
+        "path_type": "hardlink",
+        "sha256": "a689e9f3ad709d9a21c32fbaee9bb55d8d8628bcab98447cd602604e57bd11f7",
+        "sha256_in_prefix": "a689e9f3ad709d9a21c32fbaee9bb55d8d8628bcab98447cd602604e57bd11f7",
+        "size_in_bytes": 316
+      },
+      {
+        "_path": "site-packages/bootstrap4/templates/bootstrap4/pagination.html",
+        "path_type": "hardlink",
+        "sha256": "f74dac9737ee296940cad9ca20ad143f373473c3b359d8a4fde65bcd9ad7d44e",
+        "sha256_in_prefix": "f74dac9737ee296940cad9ca20ad143f373473c3b359d8a4fde65bcd9ad7d44e",
+        "size_in_bytes": 1549
+      },
+      {
+        "_path": "site-packages/bootstrap4/templates/bootstrap4/widgets/radio_select_button_group.html",
+        "path_type": "hardlink",
+        "sha256": "22d1089ad8fa036436de62ec0dfc344361a113871f6a0658f0d4b0ae2bce5420",
+        "sha256_in_prefix": "22d1089ad8fa036436de62ec0dfc344361a113871f6a0658f0d4b0ae2bce5420",
+        "size_in_bytes": 747
+      },
+      {
+        "_path": "site-packages/bootstrap4/templatetags/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/bootstrap4/templatetags/bootstrap4.py",
+        "path_type": "hardlink",
+        "sha256": "3639c6731b59558ec6f034bb6b1c7690f25d96cc64ebec2a127a7bd8bbd52c5b",
+        "sha256_in_prefix": "3639c6731b59558ec6f034bb6b1c7690f25d96cc64ebec2a127a7bd8bbd52c5b",
+        "size_in_bytes": 23619
+      },
+      {
+        "_path": "site-packages/bootstrap4/text.py",
+        "path_type": "hardlink",
+        "sha256": "32b54244de133c826e898e969cc16232d6019953886ba5696ab529a236a85061",
+        "sha256_in_prefix": "32b54244de133c826e898e969cc16232d6019953886ba5696ab529a236a85061",
+        "size_in_bytes": 467
+      },
+      {
+        "_path": "site-packages/bootstrap4/utils.py",
+        "path_type": "hardlink",
+        "sha256": "536cc6257f00a11940cbcba4c72b080379d385b23e7f50dec46365c61b5bf480",
+        "sha256_in_prefix": "536cc6257f00a11940cbcba4c72b080379d385b23e7f50dec46365c61b5bf480",
+        "size_in_bytes": 4623
+      },
+      {
+        "_path": "site-packages/bootstrap4/widgets.py",
+        "path_type": "hardlink",
+        "sha256": "baf4477272965a8a5619427b768df16fc46e437e81f7f0df9285fddcef8977ff",
+        "sha256_in_prefix": "baf4477272965a8a5619427b768df16fc46e437e81f7f0df9285fddcef8977ff",
+        "size_in_bytes": 314
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "48dd84a739517b11e942a78454e675aed00ecfa6ee67434962906359b6cee4b3",
+        "sha256_in_prefix": "48dd84a739517b11e942a78454e675aed00ecfa6ee67434962906359b6cee4b3",
+        "size_in_bytes": 757
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e5f5bd904577dc328ac1e3a2e6719a7fa5e099b81a3c0b5586049216a6dd835b",
+        "sha256_in_prefix": "e5f5bd904577dc328ac1e3a2e6719a7fa5e099b81a3c0b5586049216a6dd835b",
+        "size_in_bytes": 1533
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9fb42884b96b3f3bb82b66b4931d0a4191dead9fe702870b4f23c7276adbd511",
+        "sha256_in_prefix": "9fb42884b96b3f3bb82b66b4931d0a4191dead9fe702870b4f23c7276adbd511",
+        "size_in_bytes": 3474
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6b8f3285e13bcd9d80f8fe16161adb3ad50c782501c67fbd99f844b32fe9bff9",
+        "sha256_in_prefix": "6b8f3285e13bcd9d80f8fe16161adb3ad50c782501c67fbd99f844b32fe9bff9",
+        "size_in_bytes": 3192
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "00c297e8f1ad12875452b118f418386718a5f6f19e0e382e029aaf7f9a3d0ee8",
+        "sha256_in_prefix": "00c297e8f1ad12875452b118f418386718a5f6f19e0e382e029aaf7f9a3d0ee8",
+        "size_in_bytes": 113
+      },
+      {
+        "_path": "site-packages/django_bootstrap4-3.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3b4781d313c888997cb6463b421a3eb4c28bf1f6cdc8f0c71918100aefa069ea",
+        "sha256_in_prefix": "3b4781d313c888997cb6463b421a3eb4c28bf1f6cdc8f0c71918100aefa069ea",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/bootstrap.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/components.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/forms.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/models.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/renderers.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/templatetags/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/templatetags/__pycache__/bootstrap4.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/text.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bootstrap4/__pycache__/widgets.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "django-bootstrap4",
+  "sha256": "55418df4ffb68ffe2f9d79e1f186a4d568ce5fcfab131d71f16cbca0a9276869",
+  "size": 30891,
+  "subdir": "noarch",
+  "timestamp": 1634749887435,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/django-bootstrap4-3.0.1-pyh239f2a4_0.tar.bz2",
+  "version": "3.0.1"
+}

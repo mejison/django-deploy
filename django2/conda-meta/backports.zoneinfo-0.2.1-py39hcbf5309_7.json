@@ -1,0 +1,37 @@
+{
+  "build": "py39hcbf5309_7",
+  "build_number": 7,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "E:\\anaconda\\pkgs\\backports.zoneinfo-0.2.1-py39hcbf5309_7",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "backports.zoneinfo-0.2.1-py39hcbf5309_7.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "E:\\anaconda\\pkgs\\backports.zoneinfo-0.2.1-py39hcbf5309_7",
+    "type": 1
+  },
+  "md5": "a92d68f8824381b3f8ea4d367ae66720",
+  "name": "backports.zoneinfo",
+  "package_tarball_full_path": "E:\\anaconda\\pkgs\\backports.zoneinfo-0.2.1-py39hcbf5309_7.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d60e9d85e166331df3b946bea176fc9efce0f72ff5d1d3b260a28c202fd84de8",
+  "size": 5853,
+  "subdir": "win-64",
+  "timestamp": 1667159168968,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/backports.zoneinfo-0.2.1-py39hcbf5309_7.tar.bz2",
+  "version": "0.2.1"
+}

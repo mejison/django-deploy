@@ -1,0 +1,139 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "six >=1.8.0"
+  ],
+  "extracted_package_dir": "E:\\anaconda\\pkgs\\orderedmultidict-1.0.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/orderedmultidict-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/orderedmultidict-1.0.1.dist-info/LICENSE.md",
+    "Lib/site-packages/orderedmultidict-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/orderedmultidict-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/orderedmultidict-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/orderedmultidict-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/orderedmultidict/__init__.py",
+    "Lib/site-packages/orderedmultidict/__version__.py",
+    "Lib/site-packages/orderedmultidict/itemlist.py",
+    "Lib/site-packages/orderedmultidict/orderedmultidict.py",
+    ".nonadmin",
+    "Lib/site-packages/orderedmultidict/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/orderedmultidict/__pycache__/__version__.cpython-39.pyc",
+    "Lib/site-packages/orderedmultidict/__pycache__/itemlist.cpython-39.pyc",
+    "Lib/site-packages/orderedmultidict/__pycache__/orderedmultidict.cpython-39.pyc"
+  ],
+  "fn": "orderedmultidict-1.0.1-py_0.tar.bz2",
+  "license": "PUBLIC-DOMAIN",
+  "link": {
+    "source": "E:\\anaconda\\pkgs\\orderedmultidict-1.0.1-py_0",
+    "type": 1
+  },
+  "md5": "9312ee579d28ad5023c1f20e832c6d16",
+  "name": "orderedmultidict",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\anaconda\\pkgs\\orderedmultidict-1.0.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/orderedmultidict-1.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/orderedmultidict-1.0.1.dist-info/LICENSE.md",
+        "path_type": "hardlink",
+        "sha256": "312ba47ef895655fc8f046b3bed4076acc8222ff3f17932b32f88abd76f91deb",
+        "sha256_in_prefix": "312ba47ef895655fc8f046b3bed4076acc8222ff3f17932b32f88abd76f91deb",
+        "size_in_bytes": 1271
+      },
+      {
+        "_path": "site-packages/orderedmultidict-1.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "307536d01823def8e1ee7c28b9c3e3886a3099eb4c244735695f559f1146815e",
+        "sha256_in_prefix": "307536d01823def8e1ee7c28b9c3e3886a3099eb4c244735695f559f1146815e",
+        "size_in_bytes": 1296
+      },
+      {
+        "_path": "site-packages/orderedmultidict-1.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9322c1b0b47c606c8ae7ff18a8c8bc89e8fc1c2161451d28201106b696d7b406",
+        "sha256_in_prefix": "9322c1b0b47c606c8ae7ff18a8c8bc89e8fc1c2161451d28201106b696d7b406",
+        "size_in_bytes": 1034
+      },
+      {
+        "_path": "site-packages/orderedmultidict-1.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "87f6959f9381d8811152331b8b6a6e72647fcf3589b64df4dd85ef861eb4349f",
+        "sha256_in_prefix": "87f6959f9381d8811152331b8b6a6e72647fcf3589b64df4dd85ef861eb4349f",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/orderedmultidict-1.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2355992ec9f27361a77d965a1a10b6a7d7e4ec5f4e639901ae7bf6fb0894aa4f",
+        "sha256_in_prefix": "2355992ec9f27361a77d965a1a10b6a7d7e4ec5f4e639901ae7bf6fb0894aa4f",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "site-packages/orderedmultidict/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c1bbc320e15770b541fcc850523bbb68d1582aae9826a88e3774de94902ff3ba",
+        "sha256_in_prefix": "c1bbc320e15770b541fcc850523bbb68d1582aae9826a88e3774de94902ff3ba",
+        "size_in_bytes": 499
+      },
+      {
+        "_path": "site-packages/orderedmultidict/__version__.py",
+        "path_type": "hardlink",
+        "sha256": "12b91565ff750bb466937668f760fc69c147a865cc6c8f340ee2a00bc7ffc3fc",
+        "sha256_in_prefix": "12b91565ff750bb466937668f760fc69c147a865cc6c8f340ee2a00bc7ffc3fc",
+        "size_in_bytes": 423
+      },
+      {
+        "_path": "site-packages/orderedmultidict/itemlist.py",
+        "path_type": "hardlink",
+        "sha256": "32969d0abd83a457e481370d0ab766f98381983c604ff64635228a665d47f599",
+        "sha256_in_prefix": "32969d0abd83a457e481370d0ab766f98381983c604ff64635228a665d47f599",
+        "size_in_bytes": 4483
+      },
+      {
+        "_path": "site-packages/orderedmultidict/orderedmultidict.py",
+        "path_type": "hardlink",
+        "sha256": "bded6d54d1846322469ea379c554521a23b501402884766c07be992b8bc226e0",
+        "sha256_in_prefix": "bded6d54d1846322469ea379c554521a23b501402884766c07be992b8bc226e0",
+        "size_in_bytes": 29568
+      },
+      {
+        "_path": "Lib/site-packages/orderedmultidict/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/orderedmultidict/__pycache__/__version__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/orderedmultidict/__pycache__/itemlist.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/orderedmultidict/__pycache__/orderedmultidict.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "836a48fcce5963e21b3e09d1b48155d95d89a187618d1325117e319304ca19d2",
+  "size": 12776,
+  "subdir": "noarch",
+  "timestamp": 1564791350753,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/orderedmultidict-1.0.1-py_0.tar.bz2",
+  "version": "1.0.1"
+}
